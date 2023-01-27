@@ -1,0 +1,7 @@
+{
+  "name": "shooping-cart-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

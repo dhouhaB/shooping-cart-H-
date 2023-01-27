@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "shooping-cart-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
